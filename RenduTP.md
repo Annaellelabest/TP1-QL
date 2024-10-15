@@ -23,5 +23,8 @@ Exécuter le test et interpréter le résultat obtenu. Continuer avec les autres
 
 J'ai eu quelques erreurs de compilation, que j'ai pu visualiser dans ma fenêtre et j'ai donc pu corriger mes erreurs.
 Les tests sont réussis car les conditions de test sont respectées.
+Nos tests sont bien validée:
+- Pour les setters on verifie que l'on peut modifier la valeur de name et years.
+- Pour les getters on verifie que l'on peut récupérer la valeur de name et years définis par défaut : "unknown" et 22.
 
  
